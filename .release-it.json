@@ -20,9 +20,6 @@
       "addVersionUrl": true,
       "preset": {
         "name": "conventionalcommits"
-      },
-      "context": {
-        "linkCompare": true
       }
     }
   }
