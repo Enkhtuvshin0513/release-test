@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.0.0](https://github.com/Enkhtuvshin0513/release-test/compare/1.0.0-rc.0...1.0.0) (2024-03-20)
+
 ## [1.0.0-rc.0](https://github.com/Enkhtuvshin0513/release-test/compare/...1.0.0-rc.0) (2024-03-20)
 
 
