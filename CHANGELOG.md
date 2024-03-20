@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Enkhtuvshin0513/release-test/compare/1.0.0...1.0.1) (2024-03-20)
+
+
+### Bug Fixes
+
+* aa ([0583969](https://github.com/Enkhtuvshin0513/release-test/commit/0583969b97c45b4cdd5213b9cd88c8a25911c3b7))
+
 ## [1.0.0](https://github.com/Enkhtuvshin0513/release-test/compare/1.0.0-rc.0...1.0.0) (2024-03-20)
 
 ## [1.0.0-rc.0](https://github.com/Enkhtuvshin0513/release-test/compare/...1.0.0-rc.0) (2024-03-20)
