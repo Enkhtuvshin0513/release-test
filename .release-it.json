@@ -1,6 +1,5 @@
 {
   "git": {
-    "tagName": "%s",
     "tagAnnotation": "Release ${version}",
     "commitMessage": "Release ${version}",
     "requireCleanWorkingDir": false
@@ -8,17 +7,23 @@
   "github": {
     "release": true,
     "releaseName": "Release ${version}",
-    "draft": false
+    "draft": false,
+    "publish": false
   },
   "npm": {
     "publish": false
   },
   "plugins": {
     "@release-it/conventional-changelog": {
+      "infile": "CHANGELOG.md",
+      "header": "# Changelog",
+      "addVersionUrl": true,
       "preset": {
         "name": "conventionalcommits"
       },
-      "infile": "CHANGELOG.md"
+      "context": {
+        "linkCompare": true
+      }
     }
   }
 }
